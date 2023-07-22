@@ -60,6 +60,12 @@
             "y": 1000
         }
     ],
+    "whitelist": [
+        {
+            "name": "Steins;Place",
+            "url": "https://r-steins-place.pages.dev/overlay.json"
+        }
+    ],
     "blacklist": [
         {
             "name": "r/omori",
