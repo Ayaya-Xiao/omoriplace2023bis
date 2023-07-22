@@ -56,8 +56,8 @@
             "sources": [
                 "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/third.png"
             ],
-            "x": -100,
-            "y": 1000
+            "x": 0,
+            "y": 1010
         }
     ],
     "blacklist": [
