@@ -50,6 +50,14 @@
             ],
             "x": 342,
             "y": 827
+        },
+        {
+            "name": "OMORI SpaceView",
+            "sources": [
+                "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/third.png"
+            ],
+            "x": -200,
+            "y": 1000
         }
     ],
     "blacklist": [
