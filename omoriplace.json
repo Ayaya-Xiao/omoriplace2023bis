@@ -1,7 +1,6 @@
 {
     "faction": "/r/omori",
-    "contact": "omocord",
-    "notifications": "?????",
+    "contact": "https://discord.gg/omori",
     "templates": [
         {
             "name": "OMORI Picnic Table",
