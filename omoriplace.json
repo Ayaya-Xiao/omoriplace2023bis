@@ -44,26 +44,12 @@
             "y": 132
         },
         {
-            "name": "OMORI Portrait Preparations 4",
+            "name": "OMORI Portrait",
             "sources": [
                 "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
-            "x": 1100,
-            "y": -300
-        },
-        {
-            "name": "OMORI Portrait Letf Preparations 1",
-            "sources": [
-                "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023/main/second.png"
-            ],
             "x": 342,
             "y": 827
-        }
-    ],
-    "whitelist": [
-        {
-            "name": "r/hatsune",
-            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
         }
     ],
     "blacklist": [
